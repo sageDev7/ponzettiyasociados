@@ -1,0 +1,10 @@
+{
+  "sitio": "Gerónimo Ponzetti y Asociados",
+  "titulo_corto": "Gerónimo Ponzetti y Asociados",
+  "responsable": "Gerónimo Ponzetti y Asociados, estudio jurídico",
+  "persona": "nosotros",
+  "formulario": false,
+  "btn": "btn-accent",
+  "theme_color": "#14181C",
+  "css": {"fondo": "#FAF9F6", "fondo_hero": "#14181C", "texto_hero": "#FFFFFF", "acento": "var(--accent)", "muted": "var(--muted)", "titulos": "var(--head)"}
+}
